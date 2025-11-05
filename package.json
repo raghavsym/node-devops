@@ -1,0 +1,15 @@
+{
+  "name": "ndk",
+  "version": "1.0.0",
+  "description": "node-docker-kube-ci/cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"console.log('no tests yet')\"",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
